@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minjae's%Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20Minjae's%20Github&fontSize=60)
 
 <!--
 **GooMinjae/GooMinjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
