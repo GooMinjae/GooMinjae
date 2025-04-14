@@ -1,7 +1,8 @@
 <div>
   
   <!--Header-->
-  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Minjae's%20Github&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Minjae's%20Github&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&fontAlignY=38&desc=🤖Robotics&descAlignY=60&descAlign=72.8)
+
   
 </div>
 
@@ -10,12 +11,12 @@
   
   ## 👀 About Me
  <!-- **I am studying at the Department of Robotics of Kwangwoon University.** -->
-  🏫 B.S. Student, Department of Robotics, Kwangwoon University. (2019.03~)<br>
+  🏫 B.S. Student, Department of **Robotics**, Kwangwoon University. (2019.03 ~ 2025.02)<br>
   <br>
 
   ## :fire: Experience
-  :office: Internship of "ROBOMATION" (2024.01 ~ 2024.02, 2024.07 ~ 2024.12)<br>
-  👩🏻‍💻 Member of "DOOSAN BootCamp, ROKEY" (2025.03 ~ )<br>  
+  :office: Internship of "**ROBOMATION**" (2024.01 ~ 2024.02, 2024.07 ~ 2024.12)<br>
+  👩🏻‍💻 Member of "DOOSAN BootCamp, **ROKEY**" (2025.03 ~ )<br>  
   <br>
   
   ## 🧱 Tech Stack
