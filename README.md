@@ -39,8 +39,8 @@
   
   ## 🤔 My Achievements
   ### Github
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GooMinjae)](https://github.com/anuraghazra/github-readme-stats) 
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GooMinjae&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+  
   ### Programmers
   ![Programmers Badge](https://raw.githubusercontent.com/GooMinjae/Programmers_Badge_Generator/main/result/result.svg)
   <br>
