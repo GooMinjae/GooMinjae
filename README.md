@@ -11,12 +11,16 @@
   
   ## 👀 About Me
  <!-- **I am studying at the Department of Robotics of Kwangwoon University.** -->
-  🏫 B.S. Student, Department of **Robotics**, Kwangwoon University. (2019.03 ~ 2025.02)<br>
+  **2019.03 ~ 2025.02**<br>
+  🏫 B.S. Student, Department of **Robotics**, Kwangwoon University. ()<br>
   <br>
 
-  ## :fire: Experience
-  :office: Internship of "**ROBOMATION**" (2024.01 ~ 2024.02, 2024.07 ~ 2024.12)<br>
-  👩🏻‍💻 Member of "DOOSAN BootCamp, **ROKEY**" (2025.03 ~ )<br>  
+  ## :fire: Experience<br>
+  **2024.01 ~ 2024.02, 2024.07 ~ 2024.12**<br>
+  :office: Internship of "**ROBOMATION**"<br>
+
+  **2025.03~**<br>
+  👩🏻‍💻 Member of "DOOSAN BootCamp, **ROKEY**"<br>  
   <br>
   
   ## 🧱 Tech Stack
