@@ -11,11 +11,18 @@
   
   ## 👀 About Me
  <!-- **I am studying at the Department of Robotics of Kwangwoon University.** -->
-  **2019.03 ~ 2025.02**<br>
-  🏫 B.S. Student, Department of **Robotics**, Kwangwoon University. ()<br>
+  Aspiring **Robotics Engineer** driven by innovation and real-world impact.  
+  Passionate about robotics, computer vision, and AI.  
+  Enjoy solving real-world problems through creative and practical solutions.  
   <br>
+  
+  ### 🎓 Education<br>
+  **2019.03 ~ 2025.02**<br>
+  🏫 B.S. Student, Department of **Robotics**, Kwangwoon University.<br>
+  <br>
+  <!-- > 2024 ICROS 논문 경진대회-->
+  ### :fire: Experience<br>
 
-  ## :fire: Experience<br>
   **2024.01 ~ 2024.02, 2024.07 ~ 2024.12**<br>
   :office: Internship of "**ROBOMATION**"<br>
 
