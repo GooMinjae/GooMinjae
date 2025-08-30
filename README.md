@@ -32,7 +32,7 @@
   
   ## 🧱 Tech Stack
   ### Language
-  [![Programming & Tech Stack](https://skillicons.dev/icons?i=py,c,cpp,flutter,dart,md,linux&perline=9&theme=light)](https://skillicons.dev)
+  [![Programming & Tech Stack](https://skillicons.dev/icons?i=py,c,cpp,bash,flutter,dart,md,linux&perline=9&theme=light)](https://skillicons.dev)
   
   ### Library
   [![Programming & Tech Stack](https://skillicons.dev/icons?i=ros,ai,pytorch,tensorflow&perline=9&theme=light)](https://skillicons.dev)
