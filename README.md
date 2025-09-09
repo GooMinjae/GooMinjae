@@ -26,7 +26,7 @@
   **2024.01 ~ 2024.02, 2024.07 ~ 2024.12**<br>
   :office: Internship of "**ROBOMATION**"<br>
 
-  **2025.03~**<br>
+  **2025.03 ~ 2025.09**<br>
   👩🏻‍💻 Member of "DOOSAN BootCamp, **ROKEY**"<br>  
   <br>
   
